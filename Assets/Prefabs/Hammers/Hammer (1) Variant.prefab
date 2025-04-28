@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1088537184606387355
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6172767303726323604, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_Name
+      value: Hammer (1) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7381311477149285470, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: description
+      value: Standard issue hammer. Low chance of breaking things, a bit unpredictable.
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[1].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[2].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[3].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[4].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[5].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[6].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[7].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[8].boosts.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[2].boosts.Array.data[0].Stat
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[3].boosts.Array.data[0].Stat
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[4].boosts.Array.data[0].Stat
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[5].boosts.Array.data[0].Stat
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[6].boosts.Array.data[0].Stat
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[7].boosts.Array.data[0].Stat
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[8].boosts.Array.data[0].Stat
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[1].boosts.Array.data[0].Boost
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[2].boosts.Array.data[0].Boost
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[3].boosts.Array.data[0].Boost
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[4].boosts.Array.data[0].Boost
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[5].boosts.Array.data[0].Boost
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[6].boosts.Array.data[0].Boost
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[7].boosts.Array.data[0].Boost
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 9183626125217178905, guid: cf848d507ec0da04784d89937420a379, type: 3}
+      propertyPath: rolls.Array.data[8].boosts.Array.data[0].Boost
+      value: 20
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cf848d507ec0da04784d89937420a379, type: 3}
